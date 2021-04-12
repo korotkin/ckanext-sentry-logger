@@ -1,0 +1,1 @@
+# ckanext-sentry-logger
